@@ -35,6 +35,61 @@ const questions = [
       {text: "12", correct: true},
     ]
   },
+  {
+    question: "Which Apostale betrayed christ?",
+    answers: [
+      {text: "Matthew", correct: false},
+      {text: "Judas", correct: true},
+      {text: "John", correct: false},
+      {text: "Paul", correct: false},
+      
+    ]
+  },
+  {
+    question: "How many books are in the 1611 KJV?",
+    answers: [
+      {text: "66", correct: false},
+      {text: "72", correct: false},
+      {text: "80", correct: true},
+      {text: "91", correct: false},
+    ]
+  },
+  {
+    question: "Who went in to spy out the land of israel before we went in?",
+    answers: [
+      {text: "Joshua & Caleb", correct: true},
+      {text: "Aaron & Eleazar", correct: false},
+      {text: "Moses & Joshua", correct: false},
+      {text: "Nadab & Abihu", correct: false},
+    ]
+  },
+  {
+    question: "How many years did solomon reign in peace?",
+    answers: [
+      {text: "32", correct: false},
+      {text: "18", correct: false},
+      {text: "55", correct: false},
+      {text: "40", correct: true},
+    ]
+  },
+  {
+    question: "What was Paul's original name?",
+    answers: [
+      {text: "Simon", correct: false},
+      {text: "Saul", correct: true},
+      {text: "Solomon", correct: false},
+      {text: "Samson", correct: false},
+    ]
+  },
+  {
+    question: "What is the meaning of christ name?",
+    answers: [
+      {text: "Yah Delivers", correct: false},
+      {text: "Yah is Salvation", correct: false},
+      {text: "Yah Saves", correct: true},
+      {text: "Yah Lives", correct: false},
+    ]
+  }
 ];
 
 
