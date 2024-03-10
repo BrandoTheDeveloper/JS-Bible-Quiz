@@ -22,7 +22,7 @@ const questions = [
     answers: [
       {text: "Exodus", correct: false},
       {text: "Genesis", correct: false},
-      {text: "Duetronomy", correct: true},
+      {text: "Deutronomy", correct: true},
       {text: "Numbers", correct: false},
     ]
   },
